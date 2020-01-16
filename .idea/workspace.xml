@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0b058a7-c1be-40ee-a136-f660ce8276ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vueproj/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueproj/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueproj/babel.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueproj/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueproj/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueproj/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueproj/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueproj/src/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueproj/src/assets/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueproj/src/components/HelloWorld.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueproj/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueproj/src/components/TodoItem.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueproj/src/components/Todos.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/theooo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vueproj/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vueproj/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vueproj/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vueproj/src/components/HelloWorld.vue" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,11 +22,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
   <component name="ProjectId" id="1WOBdCACG1t6hW0JWf3n5Q3eKSa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/vueproj/package-lock.json" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -53,8 +49,8 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="serve" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/theooo/package.json" />
+    <configuration name="serve" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/vueproj/package.json" />
       <command value="run" />
       <scripts>
         <script value="serve" />
@@ -63,11 +59,6 @@
       <envs />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="npm.serve" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -81,7 +72,9 @@
       <updated>1579009491423</updated>
       <workItem from="1579009492585" duration="796000" />
       <workItem from="1579010846787" duration="1006000" />
-      <workItem from="1579012877037" duration="969000" />
+      <workItem from="1579012877037" duration="1640000" />
+      <workItem from="1579159983594" duration="38000" />
+      <workItem from="1579170248844" duration="4028000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <created>1579011121901</created>
@@ -97,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579011152928</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="initial">
+      <created>1579013973353</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579013973353</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
